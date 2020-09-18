@@ -1,1 +1,2 @@
-Hello bitchesssss!
+This is Victoria's first Git project!
+
